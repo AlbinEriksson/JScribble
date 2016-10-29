@@ -1,0 +1,4 @@
+helloWorld
+hi what's up?
+add 9, 10
+abc i have spaces,this is working a lot,          i am trimmed
